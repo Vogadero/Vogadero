@@ -86,6 +86,11 @@
   <img src="https://github.com/Vogadero/Vogadero/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
+<!-- 3D 贡献图: 需要配置 profile-3d.yml -->
+<div align="center">
+  <img src="https://github.com/Vogadero/Vogadero/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Vogadero&style=flat-square&color=blueviolet" alt="Profile Views" />
