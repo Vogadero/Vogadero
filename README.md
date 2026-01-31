@@ -88,7 +88,7 @@
 
 <!-- 3D 贡献图: 需要配置 profile-3d.yml -->
 <div align="center">
-  <img src="https://github.com/Vogadero/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
+  <img src="https://github.com/Vogadero/Vogadero/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
 </div>
 
 
