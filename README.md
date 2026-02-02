@@ -29,35 +29,6 @@
 
 </div>
 
-<!-- 有趣的事实 -->
-<div align="center">
-  <h3>🎯 有趣的事实 | Fun Facts</h3>
-  
-  ```javascript
-  const vogadero = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-    askMeAbout: ["web dev", "tech", "app dev", "architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "FastAPI"],
-            go: ["Gin", "Fiber"]
-        },
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
-    },
-    currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-  };
-  ```
-</div>
-
 <!-- 活动图表 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vogadero&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
